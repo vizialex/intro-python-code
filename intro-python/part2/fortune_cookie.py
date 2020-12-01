@@ -40,7 +40,7 @@ def create_fortune_cookie_message(how_many_lucky_numbers: int) -> str:
 
 def main():
     """Create and print a fortune cookie."""
-    print("Get your fortune cookie!")
+    print("Get your fortune cookieee!")
 
     # Prompt the user for how many lucky numbers they would like
     qty_lucky_numbers = input("How many lucky numbers would you like?  ")
